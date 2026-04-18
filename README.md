@@ -28,29 +28,80 @@ Business goal
 Marketing team wants to understand customer behavior.
 
 **Cards (4)**
-
 1. Total Customers who placed orders
 2. Average Order Value
 3. Total Quantity purchased by customers
 4. Total Revenue from customers
 
 **Charts (5)**
-
 1. Top 10 Customers by Revenue
-
 2. Sales by Customer Segment
-
 3. Orders by City
-
 4. Quantity Purchased by Customers
-
 5. Revenue Distribution by Customer Segment
 
 **Slicers (3)**
-
 • City
 • Customer Segment
 • Product Category
+https://github.com/gangabavani1/Power-BI-Dashboard/blob/main/page2.png
+
+**PAGE 3**
+Product Performance
+Business goal
+Product team wants to analyze product demand.
+
+**Cards (4)**
+1. Total Products Sold
+2. Total Product Revenue
+3. Average Product Discount
+4. Number of Products Sold
+
+**Charts (5)**
+1. Sales by Product Category
+2. Top 10 Products by Quantity Sold
+3. Product Revenue Distribution
+4. Product Sales Trend by Month  
+5. Discount vs Sales Analysis
+
+**Slicers (3)**
+• Product Category
+• City
+• Year
+
+
+**PAGE 4**
+Store Performance
+Business goal
+Regional managers want to evaluate store performance.
+
+**Cards (4)**
+1. Total Store Revenue
+2. Total Orders handled by stores
+3. Total Quantity sold by stores
+4. Average Revenue per Store
+
+**Charts (5)**
+1. Sales by Store
+2. Sales by Store City
+3. Store Revenue Share
+4. Top Performing Stores
+5. Store Sales Trend by Month
+
+**Slicers (3)**
+• Store Name
+• City
+• Year
+
+=========================
+  **  SUMMARY**
+=========================
+• Which city generates the highest revenue?
+• Which product category sells the most?
+• Which customer segment contributes the most sales?
+• Which store performs the best?
+• Does higher discount increase sales?
+• Which month recorded the highest revenue?
 
 
 
