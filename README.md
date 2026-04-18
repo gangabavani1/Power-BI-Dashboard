@@ -68,7 +68,7 @@ Product team wants to analyze product demand.
 • Product Category
 • City
 • Year
-
+https://github.com/gangabavani1/Power-BI-Dashboard/blob/main/page3.png
 
 **PAGE 4**
 Store Performance
@@ -92,6 +92,7 @@ Regional managers want to evaluate store performance.
 • Store Name
 • City
 • Year
+
 
 =========================
   **  SUMMARY**
