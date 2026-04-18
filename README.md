@@ -21,7 +21,7 @@ Chennai generates the highest revenue, with Electronics as the top-selling categ
 • Product Category
 
 https://github.com/gangabavani1/Power-BI-Dashboard/blob/main/page1.png
-"C:\Users\HP\OneDrive\Pictures\ganga\powerbi project\page1.png"
+C:\Users\HP\OneDrive\Pictures\ganga\powerbi project\page1.png
 
 
 
