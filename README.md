@@ -104,6 +104,8 @@ https://github.com/gangabavani1/Power-BI-Dashboard/blob/main/page4.png
 • Does higher discount increase sales?
 • Which month recorded the highest revenue?
 
+https://github.com/gangabavani1/Power-BI-Dashboard/blob/main/page5.png
+
 
 
 
