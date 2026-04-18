@@ -21,7 +21,39 @@ Chennai generates the highest revenue, with Electronics as the top-selling categ
 • Product Category
 
 https://github.com/gangabavani1/Power-BI-Dashboard/blob/main/page1.png
-C:\Users\HP\OneDrive\Pictures\ganga\powerbi project\page1.png
+
+**PAGE 2**
+Customer Insights
+Business goal
+Marketing team wants to understand customer behavior.
+
+**Cards (4)**
+
+1. Total Customers who placed orders
+2. Average Order Value
+3. Total Quantity purchased by customers
+4. Total Revenue from customers
+
+**Charts (5)**
+
+1. Top 10 Customers by Revenue
+
+2. Sales by Customer Segment
+
+3. Orders by City
+
+4. Quantity Purchased by Customers
+
+5. Revenue Distribution by Customer Segment
+
+**Slicers (3)**
+
+• City
+• Customer Segment
+• Product Category
+
+
+
 
 
 
