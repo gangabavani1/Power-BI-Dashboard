@@ -94,9 +94,8 @@ Regional managers want to evaluate store performance.
 • Year
 https://github.com/gangabavani1/Power-BI-Dashboard/blob/main/page4.png
 
-=========================
-  **  SUMMARY**
-=========================
+
+ ******SUMMARY******
 • Which city generates the highest revenue?
 • Which product category sells the most?
 • Which customer segment contributes the most sales?
