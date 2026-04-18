@@ -92,7 +92,7 @@ Regional managers want to evaluate store performance.
 • Store Name
 • City
 • Year
-
+https://github.com/gangabavani1/Power-BI-Dashboard/blob/main/page4.png
 
 =========================
   **  SUMMARY**
@@ -103,6 +103,8 @@ Regional managers want to evaluate store performance.
 • Which store performs the best?
 • Does higher discount increase sales?
 • Which month recorded the highest revenue?
+
+
 
 
 
