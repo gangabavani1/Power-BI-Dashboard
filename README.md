@@ -21,6 +21,8 @@ Chennai generates the highest revenue, with Electronics as the top-selling categ
 • Product Category
 
 https://github.com/gangabavani1/Power-BI-Dashboard/blob/main/page1.png
+<img width="620" height="332" alt="page1" src="https://github.com/user-attachments/assets/08646808-9c31-4296-a2ea-168915a6e2da" />
+
 
 **PAGE 2**
 Customer Insights
@@ -45,6 +47,8 @@ Marketing team wants to understand customer behavior.
 • Customer Segment
 • Product Category
 https://github.com/gangabavani1/Power-BI-Dashboard/blob/main/page2.png
+<img width="623" height="336" alt="page2" src="https://github.com/user-attachments/assets/01a15cb9-1a7e-433c-8f94-ebbd47ddef26" />
+
 
 **PAGE 3**
 Product Performance
@@ -69,6 +73,8 @@ Product team wants to analyze product demand.
 • City
 • Year
 https://github.com/gangabavani1/Power-BI-Dashboard/blob/main/page3.png
+<img width="613" height="334" alt="page3" src="https://github.com/user-attachments/assets/5681ab14-c0cc-4010-a594-ab9998ff0ff5" />
+
 
 **PAGE 4**
 Store Performance
@@ -93,6 +99,8 @@ Regional managers want to evaluate store performance.
 • City
 • Year
 https://github.com/gangabavani1/Power-BI-Dashboard/blob/main/page4.png
+<img width="615" height="337" alt="page4" src="https://github.com/user-attachments/assets/54f1f2a1-c941-464e-a89d-41743b2e8732" />
+
 
 
  ******SUMMARY******
@@ -104,6 +112,8 @@ https://github.com/gangabavani1/Power-BI-Dashboard/blob/main/page4.png
 • Which month recorded the highest revenue?
 
 https://github.com/gangabavani1/Power-BI-Dashboard/blob/main/page5.png
+<img width="608" height="335" alt="page5" src="https://github.com/user-attachments/assets/31d960ba-0437-4615-b6c4-8a80d062502e" />
+
 
 
 
